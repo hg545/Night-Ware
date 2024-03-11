@@ -1,3 +1,6 @@
 if game.PlaceId == 13864661000 then
 loadstring(game:HttpGet('https://raw.githubusercontent.com/hg545/Night-Ware/main/Break-In-2-Lobby'))()
 end
+if game.PlaceId == 648362523 then
+loadstring(game:HttpGet('https://raw.githubusercontent.com/hg545/Night-Ware/main/Breaking-Point'))()
+end
